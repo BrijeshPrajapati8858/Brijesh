@@ -581,7 +581,7 @@ color: red;
   }
    
 
-  @media only screen and (max-width: 420px) {
+  @media only screen and (max-width: 720px) {
    .container{
     width: 95%;
    }
