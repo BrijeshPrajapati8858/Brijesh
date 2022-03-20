@@ -16,6 +16,7 @@
   }
 html{
   font-family: 'Poppins';
+    scroll-behavior: smooth;
 }
 
   .d-f{
